@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Apps and Web Development
-- 📫 How to reach me is you can email me
+- 📫 You can reach me by email me
 
 <!---
 Steafen97/Steafen97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
